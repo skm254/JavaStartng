@@ -1,0 +1,2 @@
+rootProject.name='Startng'
+include ':app'
